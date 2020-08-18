@@ -20,4 +20,4 @@ The unit refers to the unit of measurement that you wish to see in MyGeotab afte
 
 - The third-party device is sending a distance in 0.1 km increments, such that a value of 1223 represents a distance of 122.3 km. A multiplier of 0.1 should be applied so that the value is properly converted to kilometers on MyGeotab.
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vT54KaQdRieFO2s-RhLBepqcgGTzDEt-vlNi76o99sMp3hEtshgv4fKt5AAFjT_SyUmebmUM8_qMU7H/pubhtml?gid=0&amp;single=true&amp;widget=false&amp;headers=false" allowfullscreen=true width="100%" height="1000" srcdoc = "Retrieving Table"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vT54KaQdRieFO2s-RhLBepqcgGTzDEt-vlNi76o99sMp3hEtshgv4fKt5AAFjT_SyUmebmUM8_qMU7H/pubhtml?gid=0&amp;single=true&amp;widget=false&amp;headers=false" width="100%" height="1000"></iframe>
