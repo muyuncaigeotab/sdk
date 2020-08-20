@@ -14,7 +14,7 @@ When using Geotab's Hardware Add-On protocols, it is important not to send exces
 
 Hardware Add-Ons communicate with the GO device using an IOX corresponding to the aforementioned interfaces, namely the [IOX-CAN](https://docs.google.com/document/d/19Wlwsb_AnpE3AndOf1cbiFLzTOCI5fwscOwQh5a6jF8/preview), [IOX-USB](https://docs.google.com/document/d/1_vocie4MYAHAUBOJ_AUXzYN11jrR5jyCynFgbqigFys/preview), [IOX-RS232](https://docs.google.com/document/d/1UDEwQOY2zH1ABQ3UP6rdlcZ--LPt5SUbKEZ_AZgUsWk/preview), [IOX-BT](https://docs.google.com/document/d/1ICzpfhyYQEl1acQtJ9AGw09pzH5ADHNC8EGIcvTP2KU/preview) and any [Custom IOX](../developing-an-iox/hardware-design-guide/). The format of data sent through an IOX could vary with the type of IOX, which is shown in the table below. All IOXs support data transfer from Add-On to GO device, while some IOXs also support data transfer from GO device to Add-On.
 
-| IOX Type | Add-On Protocol | Status Data | Custom Data | Binary Data | Data Transfer From GO Device To Add-On   |
+| IOX Type | Add-On Protocol | Status Data | Custom Data | Binary Data | Data Transfer From <br> GO Device To Add-On   |
 | :---: | :---: | :---: | :---: | :---: | :---: |
 | IOX-RS232 | Y | Y | Y | Y | Y |
 | IOX-USB | Y | Y | Y | Y | Y |
